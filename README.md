@@ -1,2 +1,2 @@
 # test
-hai sa vedem daca merge
+hai sa vedem daca merge nnbd
